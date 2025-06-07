@@ -123,7 +123,7 @@ class Dicegame:
         else:
              print("\n  G A M E   O V E R 😎")
              print("====================================")
-             print("YOU WON THE GAME 🔥🔥🎉🎉🎉")
+             print("  YOU WON THE GAME 🔥🔥🎉🎉🎉 ")
              print("====================================")
              print("                                    ")
 
